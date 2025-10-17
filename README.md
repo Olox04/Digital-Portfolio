@@ -1,6 +1,6 @@
 # Digital-Portfolio
 
-**Submitted by:** Olwethu Tshingo  
+**Student Full Name:** Olwethu Tshingo  
 **Student Number:** 222634383  
 **Date:** 17 October 2025  
 
